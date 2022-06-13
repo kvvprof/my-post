@@ -1,0 +1,14 @@
+.posts_inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.posts__title {
+  font-size: 18px;
+  font-weight: 600;
+}

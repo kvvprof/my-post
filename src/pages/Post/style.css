@@ -1,0 +1,28 @@
+.post__body {
+  display: flex;
+  flex-direction: column;
+}
+
+.post__title {
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 35px;
+}
+
+.post__text {
+  font-size: 25px;
+  margin-top: 20px;
+  line-height: 30px;
+}
+
+.post__tools {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.post__delete {
+  margin-left: 5px;
+}
